@@ -1,0 +1,6 @@
+
+@mixin AAGent($rounding: 5px){
+    background-color: #054b91;
+    border-radius: $rounding;
+    color:white;
+}
